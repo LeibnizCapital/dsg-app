@@ -1,0 +1,20 @@
+{
+  "short_name": "Distributed Synthetic Grading",
+  "name": "Distributed Synthetic Grading",
+  "icons": [
+    {
+      "src": "DSG-64x84.ico",
+      "sizes": "64x84",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "DSG-100x132.png",
+      "type": "image/png",
+      "sizes": "100x132"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
